@@ -1,0 +1,447 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #dadada;
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+
+/*big-wrapper1 starts*/
+.big-wrapper1{
+    background: linear-gradient( 90deg, rgba(83, 82, 92, 1) 0%, rgba(105, 26, 140, 1) 100%, rgba(8, 28, 133, 1) 100%, rgba(0, 212, 255, 1) 100%);
+    
+    color: #fff;
+    padding: 100px 0px;
+}
+
+/*left-1 starts*/
+.left-1 h1{
+    font-size: 45px;
+    font-weight: bolder;
+    line-height: 60px;
+}
+/*left-1 ends*/
+
+
+
+/*right-1 starts*/
+.right-1 p{
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 35px;
+    color: #dbdbdb;
+    padding-left:50px;
+    
+}
+.right-1{
+    border-left: 1px solid #dadada;
+}
+
+.right-1 button{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(7, 199, 151);
+    border-radius: 50px;
+    border: 0;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin: 25px 50px;
+    letter-spacing: 1px;
+}
+/*right ends*/
+/*big-wrapper1 ends*/
+
+
+
+/*big-wrapper2 starts*/
+.big-wrapper2{
+    padding: 100px 0px;
+    background-color: #fff;
+    border-bottom: 1px solid grey;
+}
+
+
+
+/*left-2 starts*/
+.left-2 h2{
+    font-size:30px;
+    font-weight: bolder;
+    color: rgb(97, 89, 89);
+}
+
+.left-2 p{
+    font-size:18px;
+    line-height: 35px;
+    color: grey;
+    padding: 40px 0px;
+}
+
+.left-2 button{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background:none;
+    border: 3px solid #dbdbdb;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight:700;
+    letter-spacing: 1px;
+    color:grey;
+}
+/*left-2 ends*/
+
+
+
+/*right-2 starts*/
+.right-2 {
+    
+    border-left:1px solid #dbdbdb;
+}
+
+.right-2 .points{
+    color: grey;
+}
+
+.right-2 .fa{
+    color: rgb(7, 199, 151);
+    font-size: 20px;
+    padding-left: 50px;
+    margin: 25px 0px;
+}
+/*right-2 ends*/
+/*big-wrapper2 ends*/
+
+
+
+/*image part starts*/
+.image-part img{
+    width: 100%;
+
+}
+
+.image-part p{
+    font-size: 18px;
+    line-height: 35px;
+    color: grey;
+    padding: 13px 0px;
+}
+
+.image-part h3{
+    color: rgb(97, 89, 89);
+    font-size: 25px;
+    font-weight:600;
+}
+
+.image-part .image{
+    background-color:#fff;
+    margin-top: 50px;
+    border-bottom: 1px solid grey;
+
+}
+
+.image-part .image .no-padding{
+    padding-left: 0;
+    
+}
+.my-button{
+    width: 180px;
+    height: 50px;
+    border:3px solid #dbdbdb;
+    background: none;
+    border-radius: 25px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.image-part .para{
+    padding: 25px 40px;
+}
+/*image part ends*/
+
+
+
+/*single button starts*/
+.single{
+    text-align: center;
+    margin: 50px 0px;
+    
+}
+
+.single-button{
+     width: 230px;
+     height: 50px;
+     border: 3px solid grey;
+     font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 1px;
+    border-radius: 25px;
+}
+/*single button ends*/
+
+
+
+/*form-part starts*/
+.form-part{
+    background-color: #fff;
+    padding: 50px 0px;
+    border-bottom: 1px solid grey;
+}
+.form-part h2{
+    font-size:30px;
+    font-weight: bolder;
+    color: rgb(97, 89, 89);
+}
+
+.form-part p{
+    font-size: 18px;
+    padding: 20px 0px;
+    line-height: 35px;
+}
+.form-part .custom{
+    width:46%;
+    float: left;
+    margin-right: 20px;
+    padding: 20px 20px;
+    margin-bottom: 30px;
+}
+
+.form-part button{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    border: 0;
+    background: none;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: 3px solid #dbdbdb ;
+    margin: 20px 0px;
+}
+/*form-part ends*/
+
+
+
+/*right-3 starts*/
+.right-3 .points{
+    color: grey;
+}
+
+.right-3 .fa{
+    color: rgb(7, 199, 151);
+    font-size: 20px;
+    padding-left: 50px;
+    margin: 12px 0px;
+}
+/*right-3 ends*/
+
+
+
+
+/*left-3 starts*/
+.left-3 {
+    padding-right:50px ;
+    border-right:1px solid #dbdbdb;
+}
+/*left-3 ends*/
+
+
+/*footer starts*/
+.footer{
+    padding: 40px 0px;
+
+
+}
+.footer p{
+    text-align: center;
+    font-size: 18px;
+    color: grey;
+}
+/*footer ends*/
+
+
+/*media query starts*/
+@media(max-width:1200px){
+
+    .big-wrapper1 .left-1 h1{
+        font-size: 25px;
+    }
+    
+    .big-wrapper1 .right-1 p{
+        font-size: 18px;
+    }
+    
+    .big-wrapper1 button{
+        width: 180px;
+        height: 40px;
+    }
+    
+    .form-part .custom{
+        width: 100%;
+    }
+    
+}
+
+@media(max-width:992px){
+    .big-wrapper2 .left-2 h2{
+        font-size: 22px;
+    }
+    
+    .big-wrapper2 .left-2 p{
+        font-size: 18px;
+        line-height: 30px;
+        padding: 30px 0px;
+    }
+    
+    .big-wrapper2 .right-2 p{
+        font-size: 18px;
+        
+    }
+
+    .left-2 button{
+        width: 150px;
+        height: 40px;  
+    }
+
+    .my-button{
+        width: 150px;
+        height: 40px;  
+    }
+
+    .single-button{
+        width: 150px;
+        height: 40px; 
+    }
+
+    
+    .form-part button{
+        width: 150px;
+        height: 40px;
+        font-size: 12px; 
+    }
+
+
+}
+
+@media (max-width:768px) {
+    .big-wrapper1 .right-1{
+        border-left: 0px;
+        border-top: 1px solid #dadada;  
+    }
+
+    .big-wrapper1 .right-1 p{
+        padding: 40px 0px;
+    }
+    .big-wrapper1 .right-1 button{
+        margin: 0;
+    }
+
+    .big-wrapper1 .top{
+        text-align: center;
+        position: relative;
+        top: -5px; 
+    }
+
+    .big-wrapper2 .mid{
+        text-align: center;
+    }
+
+    .big-wrapper2 .right-2{
+        border-top:1px solid #dbdbdb;
+        border-left: 0px;
+        margin-top: 50px;
+        padding-top: 50px;
+    }
+
+    .image-part{
+        text-align: center;
+    }
+    .image-part .image .no-padding{
+        padding-right: 0;
+
+    }
+    
+    .image-part{
+        width: 90%;
+    }
+
+    .right-2 .fa{
+        padding-left: 0;
+    }
+
+    .form-part .left-3{
+    
+        text-align: center;
+        padding-right: 0;
+        padding-left: 0;
+        margin: 0 auto;
+       
+    
+        border-right: 0;
+        border-bottom: 1px solid #dbdbdb;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+
+    .custom-form{
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .right-3{
+        justify-content: center;
+    }
+    .right-3 .fa{
+        padding: 0;
+    }
+
+    .footer p{
+        font-size: 15px;
+    }
+
+
+} 
+
+@media(max-width:350px){
+    .big-wrapper1 .right-1 button{
+        width: 150px;
+        font-size: 12px;
+    }
+
+    .big-wrapper2 .left-2 button{
+        width: 150px;
+        font-size: 12px;
+    }
+
+    .image-part .my-button{
+        width: 120px;
+        font-size: 12px;
+    }
+
+    .single-button{
+        width: 120px;
+        font-size: 12px;
+    }
+
+    .form-part button{
+        width: 120px;
+        font-size: 10px;
+    }
+}
+/* 
+@media(max-width:280px){
+    .big-wrapper1 .right-1 button{
+        margin:0 ;
+    }
+} */
+    /* media query ends */
